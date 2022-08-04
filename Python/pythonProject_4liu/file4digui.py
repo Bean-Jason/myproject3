@@ -28,7 +28,7 @@ print("Recursive:", result)
 del sum1
 
 
-# 高斯算法
+# 高斯算法djf d fdsf
 def sum1(start, end):
 
     return(start+end)*(end-start+1)/2
